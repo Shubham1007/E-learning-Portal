@@ -24,5 +24,16 @@ Elearning enables us to quickly create and communicate new policies, training, i
 7) mysql
 8) Bootstrap
 
+# Screenshots=></br>
+<img src="e1.JPG" alt="learn"></br></br>
+<img src="e2.JPG" alt="learn"></br></br>
+<img src="e3.JPG" alt="learn"></br></br>
+<img src="e4.JPG" alt="learn"></br></br>
+<img src="e5.JPG" alt="learn"></br></br>
+<img src="e6.JPG" alt="learn"></br></br>
+<img src="e7.JPG" alt="learn"></br></br>
+<img src="e8.JPG" alt="learn"></br></br>
+
+
 
 
