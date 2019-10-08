@@ -13,6 +13,7 @@ ul {
     background-color: #333;
 }
 
+/* Li tags updated */
 li {
     float: left;
 }
