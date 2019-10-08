@@ -186,6 +186,7 @@ div.tab button.active {
 
 
 <script>
+	
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
@@ -202,6 +203,7 @@ function openCity(evt, cityName) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+	// opencity function completed
 </script>
      
 </body>
